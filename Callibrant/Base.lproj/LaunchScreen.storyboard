@@ -19,6 +19,7 @@
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="1.Splash-Screen" translatesAutoresizingMaskIntoConstraints="NO" id="iBP-Rj-3G7">
                                 <rect key="frame" x="-174" y="0.0" width="723" height="667"/>
+                                <color key="backgroundColor" red="0.92549019610000005" green="0.84313725490000002" blue="0.1019607843" alpha="1" colorSpace="calibratedRGB"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
